@@ -53,8 +53,8 @@ body {
 }
 .categoria-videos img:hover {
   opacity: 1.0;
-  border: 1px solid green;
+  border: 1px solid rgb(255, 255, 255);
 }
 .categoria h2 {
-  color: rgb(42, 122, 228);
+  color: rgb(255, 255, 255);
 }
